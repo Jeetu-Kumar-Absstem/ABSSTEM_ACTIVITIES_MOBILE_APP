@@ -3,7 +3,7 @@
   "appName": "Absstem Activities",
   "webDir": "dist",
   "server": {
-    "androidScheme": "https"
+    "androidScheme": "http"
   },
   "plugins": {
     "PushNotifications": {
